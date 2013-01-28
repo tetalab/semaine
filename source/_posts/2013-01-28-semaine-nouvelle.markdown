@@ -20,22 +20,9 @@ Bonne semaine!
 
 # Agenda
 
-## Artilect - Lundi
+{% render_partial common_calendar/artilect.markdown %}
 
-Artilect est un LABoratoire de FABrication, Fab Lab, où toute personne, quelque soit son niveau de connaissance, peut venir expérimenter, apprendre ou fabriquer par elle-même tous types d'objets (prototype technique, objet interactif, artistique ou design, meuble, etc.). Pour cela chaque membre peut venir utiliser les différentes machines du Fab Lab, apprendre des autres membres ou participer aux différents projets collectifs.
-
-* à partir de 18h30
-* [http://artilect.fr/](http://www.artilect.fr)
-* Adresse: 27bis Maurice Sarraut, Toulouse (Métro Arène-Pattes d'Oie)
-
-## AG Mix'art Myrys - Mardi 
-
-Chaque semaine, le collectif se retrouve.
-
-Le dernier Dur d'Oreille est consultable en ligne: [http://mixart-myrys.org/durdoreilles](http://mixart-myrys.org/durdoreilles)
-
-* à partir de 18h30
-* Adresse: 12 rue Ferdinand Lassalle, Toulouse
+{% render_partial common_calendar/ag_myrys.markdown %}
 
 ## Journées "Portes ouvertes sur les outils collaboratifs" - de Mardi à Jeudi
 
@@ -46,11 +33,4 @@ Utiliser un agenda participatif de gestion de planning et de tâches utile aussi
 * Gratuit et ouvert à tous, sans réservation
 * Musicophages, 6 rue de la bourse, Toulouse
 
-## Tetalab - Mercredi
-
-Réunion hebdomadaire du Tetalab pour discuter de vos projets et trouver des solutions pour les faire avancer.
-Amenez vos boissons favorites!
-
-* à partir de 21h
-* [http://tetalab.org](http://tetalab.org)
-* Adresse: Mixart Myrys, 12 rue Ferdinand Lassalle, Toulouse
+{% render_partial common_calendar/tetalab.markdown %}
