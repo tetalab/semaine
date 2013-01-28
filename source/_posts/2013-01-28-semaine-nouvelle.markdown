@@ -11,7 +11,7 @@ Après quelques mois d'absence, le mail des activités de la semaine est de reto
 - suivi des modifications sur [https://github.com/tetalab/semaine/commits/master](https://github.com/tetalab/semaine/commits/master)
 - édition rapide des events répétitifs avec les balises ```{{include...}}``` sous [Octopress](http://octopress.org/)
 
-Bonne semaime!
+Bonne semaine!
 
 # Liens de la semaine
 
