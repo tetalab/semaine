@@ -2,8 +2,6 @@
 layout: post
 title: "Semaine Nouvelle"
 date: 2013-01-28 20:54
-comments: true
-categories: 
 ---
 
 Après quelques mois d'absence, le mail des activités de la semaine est de retour avec plus de facilité a sa lecture et son édition:
