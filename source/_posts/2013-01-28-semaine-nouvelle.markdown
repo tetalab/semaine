@@ -19,6 +19,13 @@ Alex
 
 ====
 
+# Liens de la semaine
+
+* **We Are Legion** - Film-débat passé à l'Utopia mercredi dernier : https://www.youtube.com/watch?v=SZJHYr8CZco
+* **TPB AFK - Trailer** - Bande annonce de "The Pirate Bay - Away From Keyboard" qui sortira le 8 février sur le net et en ouverture du Festival de Berlin : https://www.tpbafk.tv
+
+====
+
 # Agenda
 
 ## Artilect - Lundi
