@@ -6,7 +6,18 @@ comments: true
 categories: 
 ---
 
-# Liens de la semaines
+Après quelques mois d'absence, le mail des activités de la semaine est de retour avec plus de facilité a sa lecture et son édition:
+
+- archives disponibles sur http://cette-semaine-au.tetalab.org
+- édition en ligne sur https://github.com/tetalab/semaine/tree/master/source/_posts
+- suivi des modifications sur https://github.com/tetalab/semaine/commits/master
+- édition rapide des events répétitifs avec les balises ```{{include...}}```
+
+Bonne semaime!
+
+Alex
+
+====
 
 # Agenda
 
