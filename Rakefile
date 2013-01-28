@@ -115,6 +115,37 @@ task :new_post, :title do |t, args|
   end
 end
 
+# usage rake new_mail[my-new-mail] or rake new_mail['my new mail'] or rake new_mail(defaults to "new-mail")
+desc "Begin a new mail in #{source_dir}/#{posts_dir}"
+task :new_mail, :title do |t, args|
+
+  current_date = Time.now
+  while !current_date.monday?
+    current_date += 86400
+  end
+
+  if args.title
+    title = args.title
+  else
+    title = get_stdin("Enter a title for your mail: ")
+  end
+  raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." unless File.directory?(source_dir)
+  mkdir_p "#{source_dir}/#{posts_dir}"
+  filename = "#{source_dir}/#{posts_dir}/#{current_date.strftime('%Y-%m-%d')}-#{title.to_url}.#{new_post_ext}"
+  if File.exist?(filename)
+    abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
+  end
+  puts "Creating new mail: #{filename}"
+  open(filename, 'w') do |post|
+    post.puts "---"
+    post.puts "layout: post"
+    post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
+    post.puts "date: #{current_date.strftime('%Y-%m-%d %H:%M')}"
+    post.puts "comments: true"
+    post.puts "categories: "
+    post.puts "---"
+  end
+end
 # usage rake new_page[my-new-page] or rake new_page[my-new-page.html] or rake new_page (defaults to "new-page.markdown")
 desc "Create a new page in #{source_dir}/(filename)/index.#{new_page_ext}"
 task :new_page, :filename do |t, args|
