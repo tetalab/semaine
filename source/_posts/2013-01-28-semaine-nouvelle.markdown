@@ -9,7 +9,7 @@ Après quelques mois d'absence, le mail des activités de la semaine est de reto
 - archives disponibles sur [http://cette-semaine-au.tetalab.org](http://cette-semaine-au.tetalab.org)
 - édition en ligne sur [https://github.com/tetalab/semaine/tree/master/source/_posts](https://github.com/tetalab/semaine/tree/master/source/_posts)
 - suivi des modifications sur [https://github.com/tetalab/semaine/commits/master](https://github.com/tetalab/semaine/commits/master)
-- édition rapide des events répétitifs avec les balises ```{{include...}}```
+- édition rapide des events répétitifs avec les balises ```{{include...}}``` sous [Octopress](http://octopress.org/)
 
 Bonne semaime!
 
