@@ -33,7 +33,7 @@ Alex
 Artilect est un LABoratoire de FABrication, Fab Lab, où toute personne, quelque soit son niveau de connaissance, peut venir expérimenter, apprendre ou fabriquer par elle-même tous types d'objets (prototype technique, objet interactif, artistique ou design, meuble, etc.). Pour cela chaque membre peut venir utiliser les différentes machines du Fab Lab, apprendre des autres membres ou participer aux différents projets collectifs.
 
 * à partir de 18h30
-* Site: http://artilect.fr/
+* http://artilect.fr/
 * Adresse: 27bis Maurice Sarraut, Toulouse (Métro Arène-Pattes d'Oie)
 
 ## AG Mix'art Myrys - Mardi 
@@ -41,8 +41,17 @@ Artilect est un LABoratoire de FABrication, Fab Lab, où toute personne, quelque
 * à partir de 18h30
 * Adresse: Mixart Myrys, 12 rue Ferdinand Lassalle, Toulouse
 
+## Journées "Portes ouvertes sur les outils collaboratifs" - de Mardi à Jeudi
+
+Venez découvrir et tester les nouveaux outils collaboratifs du monde des logiciels libres ! 
+Utiliser un agenda participatif de gestion de planning et de tâches utile aussi bien pour gérer un emploi du temps personnel que pour planifier sa tournée, écrire à plusieurs un document à distance et pouvoir le modifier, accéder et échanger sans difficultés des documents volumineux sans passer par yousendit ou dropbox, gérer sa base d'adhérents ou de fans et leur envoyer des mails grâce à une solution interne...
+
+* tiret noir
+* Gratuit et ouvert à tous, sans réservation
+* Musicophages
+
 ## Tetalab - Mercredi
 
 * à partir de 21h
-* Site: http://tetalab.org
+* http://tetalab.org
 * Adresse: Mixart Myrys, 12 rue Ferdinand Lassalle, Toulouse
