@@ -35,7 +35,7 @@ Chaque semaine, le collectif se retrouve.
 Le dernier Dur d'Oreille est consultable en ligne: [http://mixart-myrys.org/durdoreilles](http://mixart-myrys.org/durdoreilles)
 
 * à partir de 18h30
-* Adresse: Mixart Myrys, 12 rue Ferdinand Lassalle, Toulouse
+* Adresse: 12 rue Ferdinand Lassalle, Toulouse
 
 ## Journées "Portes ouvertes sur les outils collaboratifs" - de Mardi à Jeudi
 
@@ -44,7 +44,7 @@ Utiliser un agenda participatif de gestion de planning et de tâches utile aussi
 
 * tiret noir
 * Gratuit et ouvert à tous, sans réservation
-* Musicophages
+* Musicophages, 6 rue de la bourse, Toulouse
 
 ## Tetalab - Mercredi
 
