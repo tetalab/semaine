@@ -79,7 +79,7 @@ Mardi soir, le club "du mardi" continue son action :
 * amélioration de la malle "Électricité dans ma ville" (matos et fiche)
 * amélioration des fiches traitant du thème de la lumière et des ondes lumineuses
 
-* http://www.planete-sciences.org/midi-pyrenees/
+* [http://www.planete-sciences.org/midi-pyrenees/](http://www.planete-sciences.org/midi-pyrenees/)
 * Parc Technologique du Canal – Bâtiment Marine – Rue Hermès - 31 520 Ramonville Saint-Agne
 
 {% render_partial common_calendar/ag_myrys.markdown %}
