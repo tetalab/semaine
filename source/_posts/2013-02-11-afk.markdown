@@ -86,6 +86,16 @@ Mardi soir, le club "du mardi" continue son action :
 
 ## Le Bit et le Couteau - Mercredi de 13h à 14h
 
+Dur Canal Sud, des membres du Tetalab prennent la parole pour
+l'émission "Le Bit et le Couteau".
+
+L'émission commencera à 13h, et vous pouvez la suivre en direct dans
+VLC (ou autres players) sur: http://giss.tv:8000/canalsudtoulouse.mp3
+
+Nous avons mis en place un pad afin de signaler des informations
+complémentaires, ou de vous retrouver entre auditeurs. Ce pad est
+accessible sur: http://canalsud.tetalab.org
+
 * http://canalsud.tetalab.org
 
 {% render_partial common_calendar/tetalab.markdown %}
