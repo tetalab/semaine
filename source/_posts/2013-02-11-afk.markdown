@@ -1,5 +1,75 @@
 ---
 layout: post
-title: "AFK"
+title: "Semaine AFK"
 date: 2013-02-11 16:06
 ---
+
+# Agenda
+
+{% render_partial common_calendar/artilect.markdown %}
+
+## Conférence-débat organisé par Les Amis du Monde Diplomatique et Attac - à 20h30
+
+La société industrielle a connu jusqu'à présent deux grands
+modèles organisationnels.
+Le premier est le productivisme, et il domine le XIXe siècle.
+Fondé sur le machinisme industriel qui engendre une
+augmentation spectaculaire de la productivité, il bénéficie
+presque exclusivement à ce que l'on appelle alors
+la bourgeoisie - petite, moyenne ou grande.
+Au XXe siècle, une autre organisation sociale de la société
+industrielle se met en œuvre aux États-Unis, puis se répand
+dans le monde entier. Ce n'est plus seulement une
+organisation de la production, mais aussi de la
+consommation, stimulée en permanence - ce qui rend
+possible le modèle d'innovation qui a sera théorisé par
+Schumpeter. La stimulation de la consommation s'opère
+à travers les techniques dont le marketing va devenir la
+science reine - en partant de la théorie freudienne de
+l'inconscient avec Edward Bernays, neveu de Sigmund Freud.
+C'est ce modèle caractéristique du XXe siècle qui s'est
+effondré au mois d'octobre 2008 - qui n'est pas seulement
+une conséquence dans le monde de l'économie réelle des
+spéculations de l'économie virtuelle : à travers cette crise,
+c'est le modèle consumériste qui a rencontré ses limites dans
+une combinaison de facteurs toxiques qui a fait apparaître
+que la "croissance" était une mécroissance.
+L'enjeu est alors de repenser la croissance sur de nouvelles
+bases : celles que rendent possibles les technologies
+réticulaires. On soutiendra que l'avenir de la croissance, qui
+suppose le dépassement de la mécroissance, consiste en
+une économie de la contribution où l'opposition fonctionnelle
+entre production et consommation devient caduque.
+
+Avec Bernard Stiegler
+
+Philosophe, il a cofondé
+en 2005 l'association
+Ars industrialis, qui recherche
+et tente de mettre en oeuvre
+une action basée sur les
+technologies collaboratives
+et, en 2006, l'Institut de
+Recherche et d'innovation
+du Centre Pompidou qui a pour
+objectif anticiper, accompagner,
+et analyser les mutations des
+pratiques culturelles permises
+par les technologies
+numériques, et contribuer
+
+
+* Salle du Sénéchal, 17 rue de Rémusat à Toulouse
+
+## Planète-Science Midi-Pyrénées - Le Club du Mardi - à partir de 18h30
+
+* http://www.planete-sciences.org/midi-pyrenees/
+* Parc Technologique du Canal – Bâtiment Marine – Rue Hermès - 31 520 Ramonville Saint-Agne
+
+{% render_partial common_calendar/ag_myrys.markdown %}
+
+## Le bit et le Couteau - Mercredi de 13h à 14h
+
+* http://canalsud.tetalab.org
+
+{% render_partial common_calendar/tetalab.markdown %}
