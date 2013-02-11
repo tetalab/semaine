@@ -6,7 +6,18 @@ date: 2013-02-11 16:06
 
 # Agenda
 
-{% render_partial common_calendar/artilect.markdown %}
+## Artilect - Lundi à partir de 18h30
+
+Artilect est un LABoratoire de FABrication, Fab Lab, où toute personne, quelque soit son niveau de connaissance, peut venir expérimenter, apprendre ou fabriquer par elle-même tous types d'objets (prototype technique, objet interactif, artistique ou design, meuble, etc.). Pour cela chaque membre peut venir utiliser les différentes machines du Fab Lab, apprendre des autres membres ou participer aux différents projets collectifs.
+
+Ce lundi aura lieu une prochaine soirée de présentation "projets" au local d'Artilect.
+Pour le moment, il est prévu un certain nombre de présentations d'étudiants en Master Création Numérique réalisant leur stage en partenariat avec Artilect.
+
+J'invite cependant tous ceux parmi nous qui auraient quelque chose à présenter à se lancer et à venir devant les autres membres pour partager leur travail : une réalisation en cours, une idée, un retour d'expérience... 
+Le format des présentations est très flexible, on est dans l'optique de rester dans de l'informel et du convivial.
+
+* http://artilect.fr/
+* Adresse: 27bis Maurice Sarraut, Toulouse (Métro Arène-Pattes d'Oie)
 
 ## Conférence-débat organisé par Les Amis du Monde Diplomatique et Attac - à 20h30
 
@@ -63,13 +74,30 @@ numériques, et contribuer
 
 ## Planète-Science Midi-Pyrénées - Le Club du Mardi - à partir de 18h30
 
+Mardi soir, le club "du mardi" continue son action :
+
+* amélioration de la malle "Électricité dans ma ville" (matos et fiche)
+* amélioration des fiches traitant du thème de la lumière et des ondes lumineuses
+
 * http://www.planete-sciences.org/midi-pyrenees/
 * Parc Technologique du Canal – Bâtiment Marine – Rue Hermès - 31 520 Ramonville Saint-Agne
 
 {% render_partial common_calendar/ag_myrys.markdown %}
 
-## Le bit et le Couteau - Mercredi de 13h à 14h
+## Le Bit et le Couteau - Mercredi de 13h à 14h
 
 * http://canalsud.tetalab.org
 
 {% render_partial common_calendar/tetalab.markdown %}
+
+## Toulibre - Ateliers Logiciels Libres - Samedi
+
+Un samedi par mois , un ou plusieurs ateliers sont organisés au Centre Culturel Bellegarde, 17 rue Bellegarde à Toulouse.
+
+Les prochains ateliers auront lieu le samedi 16 février 2013 2012. Ce mois-ci, trois ateliers auront lieu en parallèle :
+
+* atelier KDE
+* atelier python
+* atelier Blender
+
+* http://toulibre.org
