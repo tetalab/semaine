@@ -4,6 +4,14 @@ title: "Semaine AFK"
 date: 2013-02-11 16:06
 ---
 
+Salut,
+
+
+
+# Liens de la semaine
+
+* Le film TPB-AFK à regarder si vous ne l'avez pas encore fait: [http://watch.tpbafk.tv/](http://watch.tpbafk.tv/)
+
 # Agenda
 
 ## Artilect - Lundi à partir de 18h30
@@ -16,8 +24,14 @@ Pour le moment, il est prévu un certain nombre de présentations d'étudiants e
 J'invite cependant tous ceux parmi nous qui auraient quelque chose à présenter à se lancer et à venir devant les autres membres pour partager leur travail : une réalisation en cours, une idée, un retour d'expérience... 
 Le format des présentations est très flexible, on est dans l'optique de rester dans de l'informel et du convivial.
 
-* http://artilect.fr/
+* [http://artilect.fr/](http://artilect.fr/)
 * Adresse: 27bis Maurice Sarraut, Toulouse (Métro Arène-Pattes d'Oie)
+
+## THSF - organisation - de 19h30 à 21h30
+
+On se retrouve ce soir pour préparer le THSF qui aura lieu comme chaque année fin mai.
+
+* [http://thsf.tetalab.org](http://thsf.tetalab.org)
 
 ## Conférence-débat organisé par Les Amis du Monde Diplomatique et Attac - à 20h30
 
@@ -90,13 +104,13 @@ Dur Canal Sud, des membres du Tetalab prennent la parole pour
 l'émission "Le Bit et le Couteau".
 
 L'émission commencera à 13h, et vous pouvez la suivre en direct dans
-VLC (ou autres players) sur: http://giss.tv:8000/canalsudtoulouse.mp3
+VLC (ou autres players) sur: [http://giss.tv:8000/canalsudtoulouse.mp3](http://giss.tv:8000/canalsudtoulouse.mp3)
 
 Nous avons mis en place un pad afin de signaler des informations
 complémentaires, ou de vous retrouver entre auditeurs. Ce pad est
-accessible sur: http://canalsud.tetalab.org
+accessible sur: [http://canalsud.tetalab.org](http://canalsud.tetalab.org)
 
-* http://canalsud.tetalab.org
+* [http://canalsud.tetalab.org](http://canalsud.tetalab.org)
 
 {% render_partial common_calendar/tetalab.markdown %}
 
@@ -110,4 +124,4 @@ Les prochains ateliers auront lieu le samedi 16 février 2013 2012. Ce mois-ci, 
 * atelier python
 * atelier Blender
 
-* http://toulibre.org
+* [http://toulibre.org](http://toulibre.org)
